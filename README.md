@@ -1,2 +1,2 @@
 # ml_spealization
-Stanford University -  Online
+Stanford Online
